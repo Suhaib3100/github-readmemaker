@@ -40,11 +40,11 @@ Got any trophies/medals but don't know how to display them on your profile? Don'
 You can copy the generated ReadMe and paste it into your GitHub ReadMe file directly, or you can also download the markdown (`README.md`) file and just add it to your GitHub repo.
 
 ## Our Social Links
-[![X](https://img.shields.io/badge/X-black.svg?style=normal&logo=X&logoColor=white)](https://x.com/VishwaGauravIn)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishwaGauravIn)
+[![X](https://img.shields.io/badge/X-black.svg?style=normal&logo=X&logoColor=white)](https://x.com/SuhaibKing)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suhaib-sz)
 
 ## PageSpeed Insights
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
+![]([https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg](https://avatars.githubusercontent.com/u/109773912?v=4))
 
 ## Tech Used
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
